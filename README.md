@@ -93,8 +93,8 @@ Step14. click on debug and simulate using simulation as shown below
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed By : G Venkata Pavan Kumar
-Reg. No.: 212221240013
+Developed By : D.Amarnath Reddy
+Reg. No.: 212221240012
 ```
 ```c
 #include "main.h"
@@ -199,7 +199,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
-![image](https://github.com/Pavan-Gv/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94827772/4637480a-a717-4566-9931-996e50fbf78c)
+<img width="566" alt="pmc 1" src="https://github.com/Dhanireddy-Amarnthreddy/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94165103/47c51822-10c8-4aab-b0d9-58d3708ed8d0">
 
 **FOR PULSE AT 500** :
 
@@ -216,7 +216,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## CIRCUIT DIAGRAM : 
  
-![image](https://github.com/Pavan-Gv/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94827772/57987f14-0aad-4ce0-a0e8-84012c824206)
+<img width="619" alt="pmc 2" src="https://github.com/Dhanireddy-Amarnthreddy/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94165103/dd032611-8023-4356-99a2-8a6c1fd381fc">
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 
